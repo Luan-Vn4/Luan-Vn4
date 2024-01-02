@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=82328C&height=90&section=header"/>
 <img align="right" src="./picture_purple_guy.webp" height="350x"/>
 <h1>About me</h1>
 <ul>
@@ -35,6 +36,11 @@
 </ul>
 
 <h1>Statistics</h1>
-
+<div align="center">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Vn4&size_weight=0.5&count_weight=0.5)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Vn4&theme=default&show_icons=true)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=82328C&height=90&section=footer"/>
