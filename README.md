@@ -1,3 +1,4 @@
+<img align="right" src="./picture_purple_guy.webp" height="350x"/>
 <h1>About me</h1>
 <ul>
   <li>Software Engineering student at <a href="https://www.upe.br">Universidade de Pernambuco (UPE)</a></li>
