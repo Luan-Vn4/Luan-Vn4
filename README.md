@@ -38,8 +38,8 @@
 <h1>Statistics</h1>
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-Vn4&size_weight=0.5&count_weight=0.5)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luan-Vn4&theme=default&show_icons=true)
+<img height="200em" src="https://github-readme-stats-pi-liard.vercel.app/api?username=Luan-Vn4&show_icons=true&theme=midnight-purple" target="_blank" />
+<img height="200em" src="https://github-readme-stats-pi-liard.vercel.app/api/top-langs/?username=Luan-Vn4&show_icons=true&theme=midnight-purple"/>
 
 </div>
 
