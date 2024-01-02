@@ -3,7 +3,7 @@
 <ul>
   <li>Software Engineering student at <a href="https://www.upe.br">Universidade de Pernambuco (UPE)</a></li>
   <li>I like to read and play games. Also I like to explore and learn about new things</li>
-  <li>I'm doing an advanced English course at [CNA](https://prod.cnanet.com.br)</li>
+  <li>I'm doing an advanced English course at <a href="https://prod.cnanet.com.br">CNA</a></li>
   <li>I'm committed to learning more about the tech world. Currently, I'm focusing on the following technologies and concepts:</li>
     <!-- List of technologies and concepts -->
     <p>🔹 Java</p>
